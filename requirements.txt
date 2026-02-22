@@ -1,0 +1,8 @@
+mcp
+fastapi
+uvicorn
+httpx
+google-cloud-secret-manager
+sse-starlette
+pydantic-settings
+python-dotenv
